@@ -84,39 +84,36 @@ Acesse o protótipo funcional no Lovable:
 
 ---
 
-## 🔍 Funcionalidades do App de Organização Financeira
 
-### 1. Dashboard Financeiro
-- Exibe um panorama claro das finanças pessoais:
-  - **Receitas**: Total de ganhos registrados
-  - **Despesas**: Total de gastos
-  - **Saldo**: Diferença entre receitas e despesas
-- Interface simples e direta para facilitar a compreensão
 
-### 2. Assistente Financeiro
-- Personagem conversacional que interage com o usuário
-- Incentiva a conexão de contas e cartões para uma visão completa das finanças
-- Oferece suporte emocional e motivacional
+## 🔍 Funcionalidades do App
 
-### 3. Registro de Transações via Chat
-- Campo de entrada para o usuário digitar mensagens em linguagem natural
-- Permite registrar gastos e interagir com o assistente de forma fluida
+1. **Dashboard Financeiro**  
+   Exibe um panorama claro das finanças pessoais:  
+   - **Receitas**: total de ganhos registrados  
+   - **Despesas**: total de gastos  
+   - **Saldo**: diferença entre receitas e despesas  
+   - Interface simples e direta para facilitar a compreensão  
 
-### 4. Metas Financeiras
-- Área dedicada à criação e acompanhamento de objetivos financeiros
-- Sugestão proativa para o usuário definir metas
-- Botão de ação para adicionar novas metas
+2. **Assistente Financeiro**  
+   - Personagem conversacional que interage com o usuário  
+   - Incentiva a conexão de contas e cartões para uma visão completa das finanças  
+   - Oferece suporte emocional e motivacional  
 
-### 5. Relatórios Personalizados
-- Visualizações simples e adaptadas ao estilo do usuário
-- Acompanhamento de metas e progresso financeiro
+3. **Registro de Transações via Chat**  
+   - Campo de entrada para o usuário digitar mensagens em linguagem natural  
+   - Permite registrar gastos e ganhos de forma fluida  
+   - Interação contínua com o assistente para confirmar categorias e dar feedback  
 
-### 6. Design Universal
-- Interface acessível e inclusiva:
-  - Linguagem simples
-  - Navegação clara
-  - Compatibilidade com leitores de tela e comandos por voz
-  - Feedbacks visuais e auditivos para facilitar o uso
+4. **Metas Financeiras**  
+   - Área dedicada à criação e acompanhamento de objetivos financeiros  
+   - Sugestão proativa para o usuário definir metas  
+   - Botão de ação para adicionar novas metas  
+
+5. **Relatórios Personalizados**  
+   - Visualizações simples e adaptadas ao estilo do usuário  
+   - Acompanhamento de metas e progresso financeiro  
+   - Gráficos claros e acessíveis para facilitar a análise  
 
 ---
 
