@@ -104,7 +104,7 @@ Acesse o protótipo funcional no Lovable:
 ## 🧠 Reflexão
 
 ### O que funcionou bem?  
-O refinamento do PRD previamente feito no Copilot ajudou muito, pois os créditos do Lovable acabaram em apenas 3 interações.
+O refinamento do PRD previamente feito no ChatGPT ajudou muito, pois os créditos do Lovable acabaram em apenas 3 interações.
 
 ### O que não funcionou como o esperado?  
 Esperava poder interagir mais vezes gratuitamente com o Lovable, mas as interações feitas já foram de grande valia para aprender mais sobre Vibe Coding.
