@@ -80,7 +80,7 @@ A solução será construída com base em Design Universal, garantindo que o apl
 Acesse o protótipo funcional no Lovable:  
 **[https://saldex-app.lovable.app](https://saldex-app.lovable.app)**
 
-Saldex.png
+![Alt text](/Saldex.png)
 
 ---
 
